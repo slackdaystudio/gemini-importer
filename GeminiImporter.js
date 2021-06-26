@@ -7,6 +7,7 @@
  * Version: 1.0.0
  * Authors: sentry0 
  * Contact: https://app.roll20.net/users/6148080/sentry0
+ * Git: https://github.com/slackdaystudio/gemini-importer
  */
 (function() {
 	const script_name = 'GeminiImporter';
