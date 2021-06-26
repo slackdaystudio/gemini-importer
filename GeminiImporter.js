@@ -2,7 +2,7 @@
  * This script allows players and GMs to import Gemini characters into Roll20.  The Gemini Companion app is needed to generate the JSON the importer uses and
  * is available on the Apple App Store and Google Play.
  * 
- * Based off the BeyondImporter_5eOGL script.
+ * Based off the BeyondImporter_5eOGL script - https://github.com/RobinKuiper/Roll20APIScripts/tree/master/BeyondImporter_5eOGL
  * 
  * Version: 1.0.0
  * Authors: sentry0 
