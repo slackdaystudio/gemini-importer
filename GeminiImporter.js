@@ -5,7 +5,7 @@
  * Based off the BeyondImporter_5eOGL script.
  * 
  * Version: 1.0.0
- * Author: sentry0 
+ * Authors: sentry0 
  * Contact: https://app.roll20.net/users/6148080/sentry0
  */
 (function() {
