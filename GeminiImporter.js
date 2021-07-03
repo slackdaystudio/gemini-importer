@@ -235,7 +235,7 @@
 	const addSecondaryAttributes = (character, single_attributes) => {
 		let attributes = {};
 		
-		attributes['move'] = character.secondaryAttributes.move;
+		attributes['move'] = `${character.secondaryAttributes.move}m`;
 		attributes['evasion'] = character.calculatedAttributes.evasion;
 		attributes['resolve'] = character.calculatedAttributes.resolve;
 		attributes['soak'] = character.calculatedAttributes.soak;
